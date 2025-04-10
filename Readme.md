@@ -7,9 +7,8 @@ Welcome to **Greenden**, a responsive and elegant plant-selling website built us
 ## 🔗 Live Demo
 
 🖥️ Click here to view the live website:  
-👉 [Greenden Live Site](https://your-github-username.github.io/greenden/)
+👉 [Greenden Live Site](https://ulaganathan0709.github.io/Greenden_Clone/index.html)
 
-> ⚠️ Replace with your actual GitHub Pages deployment URL
 
 ---
 
